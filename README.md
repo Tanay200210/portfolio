@@ -66,5 +66,5 @@ Meghnad Desai Academy of Economics: Econometrics for Policy using R
 ### Other Achievements
 
 Top 100 Young Authors – UNESCO India Writing Competition
-[My certificate](./ )
+[My certificate](./unescocert.jpg)
 
