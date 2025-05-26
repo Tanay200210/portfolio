@@ -43,6 +43,8 @@ Tools used: Excel, R, and Tableau.
 
 I used gene expression dataset to implement classification models. This project was designed to study which classification model yields the best results. First, a PCA (Principal Component Analysis) was done and then models like KNN, Trees (with and without ensemble methods), Logistic Regression, SVM, LASSO, and finally, a Deep Learning Model were implemented. Logistic regression, LASSO, and SVM performed the best. (This was just a casual, learning project). 
 
+[Machine Learning Project](./Machine-Learning)
+
 Tools used: R
 
 ### Certifications
