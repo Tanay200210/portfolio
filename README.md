@@ -26,6 +26,8 @@ Post Graduate Diploma, Economics | Concordia University, Montreal, Canada (2023 
 
 Developed a new pricing strategy for a local gym, using primary data collected through surveys. For this project, I surveyed 107 young people in the vicinity of the gym and gathered information on their preferences, expectations, budgets, etc. Personal information, such as names, phone numbers, etc, were not collected. Using insights from Behavioural Economics and using the concept of decoy pricing, a new pricing strategy was proposed. This set of prices was identical to the original set of prices, and had an additional option (the decoy option). The proposed strategy was associated with a revenue increment of over 10%.
 
+[Optimal Pricing Strategy for a Local Gym](./Gym-Pricing-Strategy)
+
 Tools used: Excel, and R.
 
 **Intercontinental Analysis of Conflict Data (How Media Freedom is affected by Conflicts)**
