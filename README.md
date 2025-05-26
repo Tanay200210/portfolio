@@ -10,12 +10,14 @@ Post Graduate Diploma, Economics | Concordia University, Montreal, Canada (2023 
 - Data	Quality	Assessment	
 - Data	Insights
 - Data	Insights	and	Presentation
+- [Certificate](./KPMG)
 
 **Virtual Data Analysis Internship @ TATA** (July to August 2022)
 - Framing	the	Business	Scenario
 - Choosing	the	Right	Visuals
 - Creating	Effective	Visuals
 - Communicating	Insights	and	Analysis
+- [Certificate](./TATA)
 
 **Data Analyst** (December 2020 to March 2022)
 - Worked as an analyst at a successfully run local business(beauty salons) in Pune, India
@@ -50,8 +52,12 @@ Tools used: R
 ### Certifications
 Google Data Analysis Course
 
+[My Certificate](./Google)
+
 The Open University: Learn to Code for Data Analysis
 
 Meghnad Desai Academy of Economics: Econometrics for Policy using R
+
+[My Certificate](./Econometrics)
 
 
