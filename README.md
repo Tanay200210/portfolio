@@ -1,4 +1,4 @@
-# Data Analyst 1
+# Data Analyst 
 
 ### Education
 Bachelor (Honours), Economics | Symbiosis College of Arts and Commerce, Pune, India (2020 to 2023)
