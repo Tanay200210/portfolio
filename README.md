@@ -34,6 +34,8 @@ Tools used: Excel, and R.
 
 For this project, I colleced data from mulltiple sources, combined them and cleaned and sorted them to prepare for analysis. Using regression analysis, it was shown that political instability and journalist fatalities were crucial in determining media freedom. The data was broken down by years by factoring them using R (to account for intertemporal trands) and was further broken down by continents (I created continental dummies in Excel). The results show that some continents have overall better freedom for journalism while some don't.
 
+[Conflict and Press Freedom](./Conflict-And-Press-Freedom)
+
 Tools used: Excel, R, and Tableau.
 
 **Machine Learning Analysis Project on Gene Expression Data**
