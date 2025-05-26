@@ -36,6 +36,8 @@ For this project, I colleced data from mulltiple sources, combined them and clea
 
 [Conflict and Press Freedom](./Conflict-And-Press-Freedom)
 
+[View Tableau Dashboard](https://public.tableau.com/app/profile/tanay.tambat/viz/ConflictAnalysis_17482150890240/Dashboard2?publish=yes)
+
 Tools used: Excel, R, and Tableau.
 
 **Machine Learning Analysis Project on Gene Expression Data**
