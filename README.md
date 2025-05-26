@@ -1,6 +1,7 @@
 # Data Analyst 
 
 ### Education
+
 Bachelor (Honours), Economics | Symbiosis College of Arts and Commerce, Pune, India (2020 to 2023)
 
 Post Graduate Diploma, Economics | Concordia University, Montreal, Canada (2023 to 2025)
@@ -20,7 +21,7 @@ Post Graduate Diploma, Economics | Concordia University, Montreal, Canada (2023 
 - [Certificate](./TATA)
 
 **Data Analyst** (December 2020 to March 2022)
-- Worked as an analyst at a successfully run local business(beauty salons) in Pune, India
+- Worked as an analyst at a successfully run local business chain (beauty salons) in Pune, India
 - Helped in data collection, analysis, and revenue optimization.
 
 ### Projects
@@ -34,7 +35,7 @@ Tools used: Excel, and R.
 
 **Intercontinental Analysis of Conflict Data (How Media Freedom is affected by Conflicts)**
 
-For this project, I colleced data from mulltiple sources, combined them and cleaned and sorted them to prepare for analysis. Using regression analysis, it was shown that political instability and journalist fatalities were crucial in determining media freedom. The data was broken down by years by factoring them using R (to account for intertemporal trands) and was further broken down by continents (I created continental dummies in Excel). The results show that some continents have overall better freedom for journalism while some don't.
+For this project, I colleced data from multiple sources, combined them and cleaned and sorted them to prepare for analysis. Using regression analysis, it was shown that political instability and journalist fatalities were crucial in determining media freedom. The data was broken down by years by factoring them using R (to account for intertemporal trands) and was further broken down by continents (I created continental dummies in Excel). The results show that some continents have overall better freedom for journalism while some don't.
 
 [Conflict and Press Freedom](./Conflict-and-Press-Freedom)
 
@@ -61,4 +62,9 @@ Meghnad Desai Academy of Economics: Econometrics for Policy using R
 
 [My Certificate](./Econometrics)
 
+
+### Other Achievements
+
+Top 100 Young Authors – UNESCO India Writing Competition
+[My certificate](./ )
 
