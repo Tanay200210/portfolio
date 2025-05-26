@@ -4,4 +4,4 @@ This folder contains files related to the Classification Machine Learning Projec
 
 ## 📄 Files
 
-[Project pdf](./Classification-Project.pdf)
+[Project pdf](./Classification%Project.pdf)
