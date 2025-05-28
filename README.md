@@ -63,6 +63,23 @@ Meghnad Desai Academy of Economics: Econometrics for Policy using R
 
 [My Certificate](./Econometrics)
 
+### Skills
+Tools for Analysis:
+- Excel/ Google Sheets
+- R Programming
+- Python Programming
+- SQL
+
+Tools for Visualization:
+- Tableau
+- Power BI
+- PowerPoint
+
+Languages:
+- English
+- French
+- Basic German
+
 
 ### Other Achievements
 
