@@ -2,18 +2,18 @@
 
 ### Education
 
-Bachelor (Honours), Economics at Symbiosis College of Arts and Commerce, Pune, India (2020 to 2023)
+Bachelor (Honours), Economics, Symbiosis College of Arts and Commerce, Pune, India (2020 to 2023)
 
-Post Graduate Diploma, Economics at Concordia University, Montreal, Canada (2023 to 2025)
+Post Graduate Diploma, Economics, Concordia University, Montreal, Canada (2023 to 2025)
 
 ### Work Experience
-**Virtual Data Analysis Internship @ KPMG** (August to September 2022)
+**Data Analysis Internship @ KPMG** 
 - Data	Quality	Assessment	
 - Data	Insights
 - Data	Insights	and	Presentation
 - [Certificate](./KPMG)
 
-**Virtual Data Analysis Internship @ TATA** (July to August 2022)
+**Data Analysis Internship @ TATA** 
 - Framing	the	Business	Scenario
 - Choosing	the	Right	Visuals
 - Creating	Effective	Visuals
