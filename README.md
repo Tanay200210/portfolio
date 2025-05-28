@@ -1,5 +1,9 @@
 # Data Analyst 
 
+### About Me
+
+I’m an Economics graduate with hands-on experience in data analysis, behavioral economics, and machine learning. From boosting gym revenue with decoy pricing to analyzing global conflicts and consumer trends using advanced econometric methods, I blend creativity with statistical rigor. Skilled in Excel, R, and Tableau, I’m also a Top 100 Young Author by UNESCO India and a driven learner.
+
 ### Education
 
 Bachelor (Honours), Economics, Symbiosis College of Arts and Commerce, Pune, India (2020 to 2023)
