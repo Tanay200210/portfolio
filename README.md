@@ -24,9 +24,9 @@ Post Graduate Diploma, Economics, Concordia University, Montreal, Canada (2023 t
 - Communicating	Insights	and	Analysis
 - [Certificate](./TATA)
 
-**Data Analyst** (December 2020 to March 2022)
+**Data Analyst** (January 2021 to March 2023)
 - Worked as an analyst at a successfully run local business chain (beauty salons) in Pune, India
-- Helped in data collection, analysis, and revenue optimization.
+- Helped in data collection, organisation, analysis, presentation and revenue optimization.
 
 ### Projects
 **Optimal Pricing Strategy for a Local Gym**
@@ -48,7 +48,7 @@ Tools used: Excel, R, and Tableau.
 
 **Machine Learning Analysis Project on Gene Expression Data**
 
-I used gene expression dataset to implement classification models. This project was designed to study which classification model yields the best results. First, a PCA (Principal Component Analysis) was done and then models like KNN, Trees (with and without ensemble methods), Logistic Regression, SVM, LASSO, and finally, a Deep Learning Model were implemented. Logistic regression, LASSO, and SVM performed the best. (This was just a casual, learning project). 
+I used gene expression dataset to implement classification models. This project was designed to study which classification model yields the best results. First, a PCA (Principal Component Analysis) was done and then models like KNN, Trees (with and without ensemble methods), Logistic Regression, SVM, LASSO, and finally, a Deep Learning Model were implemented. Logistic regression, LASSO, and SVM performed the best. (This was just a learning project). 
 
 [Machine Learning Project](./Machine-Learning)
 
