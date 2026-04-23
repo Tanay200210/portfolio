@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m an Economics graduate with hands-on experience in data analysis, behavioral economics, and machine learning. From boosting gym revenue with decoy pricing to analyzing global conflicts and consumer trends using advanced econometric methods, I blend creativity with statistical rigor. Skilled in Excel, R, and Tableau, I’m also a Top 100 Young Author by UNESCO India and a driven learner.
+Data analyst with a background in economics and behavioral analysis, focused on customer behavior, pricing strategy, and decision support. Experienced in building end-to-end workflows using SQL, Python, R, and Tableau, from data extraction to modeling and stakeholder-facing insights.
 
 ### Education
 
@@ -25,8 +25,9 @@ Post Graduate Diploma, Economics, Concordia University, Montreal, Canada (2023 t
 - [Certificate](./TATA)
 
 **Data Analyst** (January 2021 to March 2023)
-- Worked as an analyst at a successfully run local business chain (beauty salons) in Pune, India
-- Helped in data collection, organisation, analysis, presentation and revenue optimization.
+- Analyzed customer transaction and service data across multiple branches to identify repeat behavior and high-value segments
+- Built datasets and performed exploratory analysis using Excel/SQL to uncover revenue patterns
+- Supported pricing and service optimization decisions by identifying demand trends and customer preferences
 
 ### Projects
 **Optimal Pricing Strategy for a Local Gym**
