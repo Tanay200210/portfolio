@@ -2,7 +2,7 @@
 
 ### About Me
 
-Data analyst with a background in economics and behavioral analysis, focused on customer behavior, pricing strategy, and decision support. Experienced in building end-to-end workflows using SQL, Python, R, and Tableau, from data extraction to modeling and stakeholder-facing insights.
+Detail-oriented and analytically trained professional with a background in Economics and experience in data-driven and client-facing environments. Comfortable working with large datasets, interpreting trends, and building structured spreadsheets using Excel, Google Sheets, R, and SQL. Experienced in coordinating daily operations, managing requests, and maintaining accuracy in fast-paced settings. Strong communication skills with a practical understanding of pricing and market behavior, with a growing interest in logistics and supply chain operations.
 
 ### Education
 
@@ -24,10 +24,6 @@ Post Graduate Diploma, Economics, Concordia University, Montreal, Canada (2023 t
 - Communicating	Insights	and	Analysis
 - [Certificate](./TATA)
 
-**Data Analyst** (January 2021 to March 2023)
-- Analyzed customer transaction and service data across multiple branches to identify repeat behavior and high-value segments
-- Built datasets and performed exploratory analysis using Excel/SQL to uncover revenue patterns
-- Supported pricing and service optimization decisions by identifying demand trends and customer preferences
 
 ### Projects
 **Optimal Pricing Strategy for a Local Gym**
@@ -55,24 +51,12 @@ I used gene expression dataset to implement classification models. This project 
 
 Tools used: R
 
-### Certifications
-Google Data Analysis Course
-
-[My Certificate](./Google)
-
-The Open University: Learn to Code for Data Analysis
-
-[My Certificate](./OpenUni)
-
-Meghnad Desai Academy of Economics: Econometrics for Policy using R
-
-[My Certificate](./Econometrics)
 
 ### Skills
-Tools for Analysis:
+Tools:
 - Excel/ Google Sheets
-- R Programming
-- Python Programming
+- R
+- Python 
 - SQL
 
 Tools for Visualization:
@@ -83,7 +67,7 @@ Tools for Visualization:
 Languages:
 - English
 - French
-- Basic German
+- German
 
 
 ### Other Achievements
